@@ -16,7 +16,7 @@
 Berikut adalah struktur folder yang akan kita gunakan dalam repository ini agar tetap terorganisir:
 
 ```
-2025-2026_Gasal_PAW_D/
+2025-2026_Gasal_PAW_C/
 ├── Modul-1/
 │   └── 24-000_Fulan_Bin_Fulan/
 │       ├── Tugas-1.php
